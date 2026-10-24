@@ -97,5 +97,17 @@ allure open allure-report
 ## Результаты
 
 ```
-6 passed in 34.68s   # pytest -n 2 -v
+6 passed in 16.30s   # pytest -v
+6 passed in 15.53s   # pytest -n 2 -v
 ```
+
+### Скриншоты
+
+| Файл | Что показано |
+|---|---|
+| `docs/screenshots/01_allure_overview.png` | сводная страница Allure (6 тестов, 100 %) |
+| `docs/screenshots/02_allure_suites.png` | дерево тестов в разделе Suites |
+| `docs/screenshots/03_allure_test_detail.png` | шаги, параметры и вложения теста |
+| `docs/screenshots/04_allure_graph.png` | графики статусов и длительности |
+| `docs/screenshots/05_serp.png` | страница результатов поиска |
+| `docs/screenshots/07_suggest.png` | список подсказок автодополнения |
