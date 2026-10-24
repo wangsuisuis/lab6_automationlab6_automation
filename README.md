@@ -1,5 +1,7 @@
 # Лабораторная работа №6. Автоматизация тестирования веб-форм (Selenium WebDriver)
 
+**Репозиторий:** https://github.com/wangsuisuis/lab6_automationlab6_automation
+
 Автотесты поисковой формы на сайте **Яндекс** (`https://ya.ru`) с использованием
 Selenium WebDriver, паттерна **Page Object Model**, параллельного запуска
 (`pytest-xdist`) и отчётности **Allure**.
